@@ -1,21 +1,13 @@
 fileFormatVersion: 2
-guid: 90344858a0243a04d9a22d1b12a692b5
+guid: 6f59b3e7a9bb46a468c13f8a326b2dee
 TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 1955783497000053444
-    second: Trpaslik_0
-  - first:
-      213: -8843142690594764280
-    second: Trpaslik_1
-  - first:
-      213: -7305522027177284369
-    second: Trpaslik_2
-  - first:
-      213: 2538603438116758856
-    second: Trpaslik_3
+  fileIDToRecycleName:
+    21300000: Trpaslik_0
+    21300002: Trpaslik_1
+    21300004: Trpaslik_2
+    21300006: Trpaslik_3
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 9
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -144,7 +136,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 5579a0b181b335b4ca1bf42bc4f549a8
-      internalID: 1955783497000053444
       vertices: []
       indices: 
       edges: []
@@ -165,7 +156,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d2b61e38a47fcd54f96bd7e0722aaac4
-      internalID: -8843142690594764280
       vertices: []
       indices: 
       edges: []
@@ -186,7 +176,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 08f48c27105afb9418364cd06ff54d1f
-      internalID: -7305522027177284369
       vertices: []
       indices: 
       edges: []
@@ -207,7 +196,6 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9b89c6bdbeebb704aaad16a64321df89
-      internalID: 2538603438116758856
       vertices: []
       indices: 
       edges: []
@@ -216,12 +204,10 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 7106676bf7a7ad24e90b6704b0718d2b
-    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1
